@@ -25,3 +25,15 @@
 #container a {
   text-decoration: none;
 }
+
+.item-background-color{
+  // --ion-item-background:#015f01d5;
+   --ion-item-border: none;
+}
+
+.rounded-input {
+   border: 1px solid gray;
+   margin: 100px auto;
+   border-radius:100px;
+   padding: 10px !important;
+}
